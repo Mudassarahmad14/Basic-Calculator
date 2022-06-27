@@ -1,6 +1,6 @@
 # Basic-Calculator
 
 
-This Python code can perform specific operator such as ("+, -, *, /")
+This Python code can perform specific operators such as ("+, -, *, /")
 
 
